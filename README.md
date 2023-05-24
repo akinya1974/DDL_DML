@@ -29,4 +29,8 @@
 |address          | address_id               |
 |category         | category_id              |
 |city             | city_id                  |
+|country          | country_id               |
+|customer         | customer_id              |
+|film             | film_id                  |
+|film_actor       | actor_id, film_id        |
 
